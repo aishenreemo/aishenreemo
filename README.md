@@ -2,7 +2,7 @@
 <h1>Yo!. I'm Aishen 👋</h1>
 <br />
 <p>
-💀 in the real world, my name is Aivan but I go with Aishen online.<br>
+💀 in the real world, my name is _Aivan Anuyo_ but I go with **Aishen** online.<br>
 🤠 I am a Filipino, senior high-school nerd, and computer science devotee.
 </p>
 <a href="https://discord.com/app">
