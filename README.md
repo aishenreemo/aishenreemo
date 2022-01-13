@@ -10,7 +10,7 @@
 </a>
 <br />
 <br />
-<h3>Languages I use most of the time.</h3>
+<h2>Languages I use most of the time.</h2>
 <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logoColor=black&logo=javascript">
 <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logoColor=white&logo=html5">
 <img src="https://img.shields.io/badge/C-gray?style=for-the-badge&logoColor=white&logo=C">
