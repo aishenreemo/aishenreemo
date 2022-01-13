@@ -22,9 +22,4 @@
 <img src="https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logoColor=white&logo=css3">
 <img src="https://img.shields.io/badge/TypeScript-2b7489?style=for-the-badge&logoColor=white&logo=typescript">
 <br />
-<hr style="border: 1px dashed white;" />
-<br />
-<a href="https://www.pixiv.net/en/tags/%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9/artworks?s_mode=s_tag">
-  <img src="https://user-images.githubusercontent.com/75763715/146131278-0e293420-2cf7-4726-ab3a-e0760d99dc73.png" style="object-fit: cover;">
-</a>
 </div>
