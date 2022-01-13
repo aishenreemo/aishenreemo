@@ -10,7 +10,6 @@
 💀 in the real world, my name is Aivan but I go with Aishen online.<br>
 🤠 I am a Filipino, senior high-school nerd, and computer science devotee.
 </p>
-<br />
 <a href="https://discord.com/app">
 <img alt="Aishen#6345" src="https://img.shields.io/badge/aishen%236345-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
 </a>
