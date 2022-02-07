@@ -6,9 +6,7 @@
 🤠 I am a Filipino, senior high-school nerd, and computer science devotee.
 </p>
 <a href="https://discord.com/app">
-<img alt="Aishen#6345" src="https://img.shields.io/badge/aishen%236345-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<br />
 <br />
 <h2>Languages I use most of the time.</h2>
 <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logoColor=black&logo=javascript">
