@@ -3,9 +3,11 @@
     <samp><b>Yo!. I'm Aishen</b></samp>
   </h2>
   <img 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?&text_color=0D1117&bg_color=ffffff&username=aishenreemo&show_icons=true&include_all_commits=true&icon_color=0D1117&title_color=131718"
+    alt="stats" 
+    src="https://github-readme-stats.vercel.app/api?custom_title=my%20stats&username=aishenreemo&show_icons=true&count_private=true&include_all_commits=true&theme=dark"
   />
   <br>
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=ffffff&layout=compact&username=aishenreemo&title_color=131718&text_color=938DAB"/>
+  <img alt="top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishenreemo&theme=dark&custom_title=languages%20i%20use&layout=compact"/>
+  <br>
+  <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aishen&layout=compact&layout=compact&theme=dark"/>
 </div>
