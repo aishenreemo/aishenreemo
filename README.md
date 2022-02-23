@@ -1,17 +1,11 @@
 <div align="center">
-<h1>Yo!. I'm Aishen 👋</h1>
-<br />
-<p>
-  💀 in the real world, my name is <i>Aivan Anuyo</i> but I go with <b>Aishen</b> online.<br>
-🤠 I am a Filipino, senior high-school nerd, and computer science devotee.
-</p>
-<a href="https://discord.com/app">
-</a>
-<br />
-<h2>Languages I use most of the time.</h2>
-<img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logoColor=black&logo=javascript">
-<img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logoColor=white&logo=html5">
-<img src="https://img.shields.io/badge/C-gray?style=for-the-badge&logoColor=white&logo=C">
-<img src="https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logoColor=white&logo=css3">
-<img src="https://img.shields.io/badge/TypeScript-2b7489?style=for-the-badge&logoColor=white&logo=typescript">
+  <h2>
+    <samp><b>Yo!. I'm Aishen</b></samp>
+  </h2>
+  <img 
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?&text_color=ccddff&bg_color=ffffff&username=aishenreemo&show_icons=true&include_all_commits=true&icon_color=36393D&title_color=938DAB"
+  />
+  <br>
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=ffffff&layout=compact&username=aishenreemo&title_color=938DAB&text_color=938DAB"/>
 </div>
