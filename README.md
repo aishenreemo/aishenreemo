@@ -9,5 +9,5 @@
   <br>
   <img alt="top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishenreemo&theme=dark&custom_title=languages%20i%20use&layout=compact"/>
   <br>
-  <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aishen&layout=compact&layout=compact&theme=dark"/>
+  <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aishen&layout=compact&layout=compact&theme=dark&custom_title=wakatime%20stats"/>
 </div>
