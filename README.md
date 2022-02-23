@@ -4,8 +4,8 @@
   </h2>
   <img 
     alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?&text_color=ccddff&bg_color=ffffff&username=aishenreemo&show_icons=true&include_all_commits=true&icon_color=36393D&title_color=938DAB"
+    src="https://github-readme-stats.vercel.app/api?&text_color=0D1117&bg_color=ffffff&username=aishenreemo&show_icons=true&include_all_commits=true&icon_color=0D1117&title_color=131718"
   />
   <br>
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=ffffff&layout=compact&username=aishenreemo&title_color=938DAB&text_color=938DAB"/>
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=ffffff&layout=compact&username=aishenreemo&title_color=131718&text_color=938DAB"/>
 </div>
