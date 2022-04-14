@@ -15,8 +15,5 @@
           src="https://github-readme-stats.vercel.app/api/wakatime?langs_count=5&username=aishen&layout=compact&layout=compact&theme=dark&custom_title=wakatime%20stats&v=2"
         />
       </th>
-    </tr><tr>
-      <td></td>
-    </tr>
   </table>
 </div>
