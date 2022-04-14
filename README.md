@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
-    <samp><b>Yo!. I'm Aishen</b></samp>
+    I'm Aishen
   </h2>
   <table>
     <tr>
