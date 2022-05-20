@@ -6,7 +6,7 @@
   <br>
   <!--- Inspired from janleigh and owl4ce's readmes!! --->
   <samp>
-    <i>I'm just a programmer and I love to do anything I want.</i><br><br>
+    <i>I'm a programmer and I love to do anything I want.</i><br><br>
     <a href="https://aishenreemo.github.io">site</a> •
     <a href="https://discord.com/users/939782577345146881">discord</a> •
     <a href="mailto:aish3n@pm.me">mail</a>
