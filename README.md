@@ -3,11 +3,19 @@
   <h2>
     :wave: Welcome! I'm Aishen
   </h2>
-
-
-<details><summary><samp>statistics</samp></summary><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=aishenreemo&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&bg_color=00000000"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?langs_count=6&username=aishen&layout=compact&theme=dark&v=2&bg_color=00000000"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aishenreemo&layout=compact&show_icons=true&theme=dark&bg_color=00000000"/>
-</details>
+  <br>
+  <!--- Inspired from janleigh and owl4ce's readmes!! --->
+  <samp>
+    <i>I'm just a programmer and I love to do anything I want.</i><br><br>
+    <a href="https://aishenreemo.github.io">site</a> •
+    <a href="https://discord.com/users/939782577345146881">discord</a> •
+    <a href="mailto:aish3n@pm.me">mail</a>
+  </samp>
+  <br>
+  <h2></h2>
+  <details><summary><samp>statistics</samp></summary><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=aishenreemo&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&bg_color=00000000"/><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?langs_count=6&username=aishen&layout=compact&theme=dark&v=2&bg_color=00000000"/><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aishenreemo&layout=compact&show_icons=true&theme=dark&bg_color=00000000"/>
+  </details>
 </div>
