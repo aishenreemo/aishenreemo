@@ -14,15 +14,13 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          base: header, metadata
+          plugin_code: yes
+          plugin_code_lines: 20
+          plugin_code_languages: c, python, lua
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          plugin_achievements: yes
-          plugin_achievements_display: compact
           plugin_lines: yes
-          plugin_languages_ignored: >-
-            html, css, scss, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_limit: 4
           config_timezone: Asia/Manila
           token: ${{ secrets.METRICS_TOKEN }}
