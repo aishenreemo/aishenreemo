@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          base: header, metadata
+          base: header, activity, repositories, metadata
           plugin_code: yes
           plugin_code_lines: 20
           plugin_code_languages: c, python, lua
