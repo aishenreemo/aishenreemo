@@ -17,7 +17,6 @@ jobs:
           base: header, activity, repositories, metadata
           plugin_code: yes
           plugin_code_lines: 20
-          plugin_code_languages: c, python, lua
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
