@@ -22,4 +22,4 @@ When it comes to music, I predominantly listen to \f[I]J-Pop\f[R] and \f[I]Kawai
 .LP
 ```
 
-See my <a href="https://aishenreemo.github.io">Portfolio Website</a>
+See my <a target="_blank" href="https://aishenreemo.github.io">Portfolio Website</a>
